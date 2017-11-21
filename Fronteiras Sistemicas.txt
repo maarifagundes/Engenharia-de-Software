@@ -1,5 +1,0 @@
-Dono
-Clientes
-Forcenedores
-Parceiros   
-Funcionários 
